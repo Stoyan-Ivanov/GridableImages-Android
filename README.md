@@ -1,2 +1,2 @@
 # GridableImages-Android
-Create custom grid recyclerview which loads the images for you!  
+Android library that creates custom recyclerview which loads the images for you!
